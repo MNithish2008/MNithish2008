@@ -30,7 +30,7 @@ I'm a passionate CSE student interested in programming, software development and
 
 ## Connect With Me
 - LinkedIn: 
-- GitHub: https://github.com/YOUR_USERNAME
+- GitHub: https://github.com/MNithish2008
 
 ---
 
