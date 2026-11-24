@@ -29,7 +29,7 @@ I'm a passionate CSE student interested in programming, software development and
 - HTML Portfolio – My first personal webpage.
 
 ## Connect With Me
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/nithish-m-sec/
 - GitHub: https://github.com/MNithish2008
 
 ---
